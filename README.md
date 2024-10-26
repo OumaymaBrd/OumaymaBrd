@@ -72,7 +72,9 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://www.hackerrank.com/profile/oumaymabramid' target='_blank'>
+        <img height='64' style='border:0px;height:64px;' src='https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png' border='0' alt='Visit my HackerRank profile' />
+    </a>
 </div>
 
 <br/>
