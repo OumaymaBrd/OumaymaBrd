@@ -41,8 +41,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,less,html,css,vscode,github,figma,sass,git" alt="frontend-icons" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,c,java,mysql,postgresql,php,oracle,bash,ubuntu,cisco" alt="backend-icons" />
+    <img src="https://skillicons.dev/icons?i=javascript,mongodb,c,java,mysql,postgresql,php,sqldeveloper,bash,ubuntu,cisco" alt="backend-icons" />
 </div>
+
 
 
 
