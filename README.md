@@ -1,5 +1,4 @@
-## Hi there 👋
-<body style="background-color:red;">
+## Bienvenue sur mon profil GitHub  👋
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -83,4 +82,4 @@
 </div>
 
 <br/>
-</body>
+
