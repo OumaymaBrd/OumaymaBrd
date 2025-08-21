@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=800&height=80&duration=3000&lines=💫+BIENVENUE+DANS+MON+UNIVERS+DIGITAL;🎯+DÉVELOPPEUSE+FULL-STACK+PASSIONNÉE;⚡+CRÉATRICE+D'EXPÉRIENCES+WEB+MODERNES;🚀+SPÉCIALISTE+REACT+•+LARAVEL+•+NODE.JS&color=00ff88&background=1a1a2e&center=true" />
 </h1>
 
- Photo de profil avec effet moderne 
+
 <div align="center" style="margin: 40px 0;">
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-eJ7H9BU68tPrM2Kw2uZGKB39PsR6A2.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #e91e63; box-shadow: 0 0 30px rgba(233, 30, 99, 0.5);" alt="Oumayma Bramid"/>
   <br/>
