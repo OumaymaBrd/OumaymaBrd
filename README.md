@@ -15,7 +15,7 @@
 <div align="center" style="margin: 40px 0;">
   <img src="https://media.licdn.com/dms/image/v2/D4E22AQGqcU9seqy0tg/feedshare-shrink_1280/B4EZSI_xWDGYAo-/0/1737465209382?e=1757548800&v=beta&t=pGz9dYOcEeOGyYxAvBbq7p76v8-lXJOsVFZwuiwJS8g" width="200" height="200" style="border-radius: 50%; border: 4px solid #e91e63; box-shadow: 0 0 30px rgba(233, 30, 99, 0.5);" alt="Oumayma Bramid"/>
   <br/>
-  <img src="https://img.shields.io/badge/Status-Disponible%20pour%20projets-00ff88?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+  <img src="[https://img.shields.io/badge/Status-Disponible%20pour%20projets-00ff88?style=for-the-badge&logo=checkmarx&logoColor=white](https://avatars.githubusercontent.com/u/161156432?s=400&u=13b50bde9f38aab76e2117f420127e71d8d6a93e&v=4)" alt="Status"/>
 </div>
 
 ---
