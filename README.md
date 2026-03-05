@@ -28,7 +28,7 @@
 <br/><br/>
 
 <!-- Animation de texte élégante -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&size=22&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=FFFFFF&background=1A1A2E00&lines=Passionnée+par+l'innovation+technologique;Spécialiste+React+%E2%80%A2+Laravel+%E2%80%A2+Node.js;Créatrice+d'expériences+web+modernes" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&size=22&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=FFFFFF&background=1A1A2E00&lines=Passionnée+par+l'innovation+technologique;Spécialiste+Java+%E2%80%A2+Angular+%E2%80%A2+Spring+Boot;Créatrice+d'expériences+web+modernes" />
 
 </div>
 
@@ -50,7 +50,7 @@
 |---|---|
 | **Formation** | YouCode Safi (UMGP) |
 | **Spécialité** | Full-Stack Development |
-| **R&D** | JavaScript, Oracle 19c, Ubuntu |
+| **R&D** | Java, Spring, Angular, Oracle |
 | **Objectif** | Innovation Technologique |
 
 </td>
@@ -60,8 +60,8 @@
 
 | | |
 |---|---|
-| **Frontend** | React.js, Vue.js, Next.js |
-| **Backend** | Laravel, Node.js, Go |
+| **Frontend** | Angular, React.js, TypeScript |
+| **Backend** | Java, Spring Boot, Node.js |
 | **Database** | MySQL, PostgreSQL, MongoDB |
 | **Cloud** | AWS, Docker, Kubernetes |
 
@@ -91,15 +91,27 @@
 
 <div align="center">
 
+<!-- Technologies principales mises en avant -->
 <table>
+<tr>
+<td align="center" colspan="2">
+<h3>Core Stack</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts&perline=4" alt="Core"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</td>
+</tr>
 <tr>
 <td align="center">
 <strong>Frontend</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind&perline=4" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css,react,tailwind,sass,bootstrap&perline=4" alt="Frontend"/>
 </td>
 <td align="center">
 <strong>Backend</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,java,go,spring&perline=4" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,php,laravel,go&perline=4" alt="Backend"/>
 </td>
 </tr>
 <tr>
@@ -109,7 +121,7 @@
 </td>
 <td align="center">
 <strong>Outils de développement</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack,vite,jest&perline=4" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,maven,gradle,jenkins&perline=4" alt="Tools"/>
 </td>
 </tr>
 </table>
@@ -285,16 +297,14 @@
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 
-### 💼 Statut Professionnel
-\`\`\`yaml
-🎯 Objectif: Innovation Technologique
-🚀 Mission: Créer des expériences web exceptionnelles  
-⚡ Énergie: Passion pour le développement
-🌟 Vision: Transformer les idées en réalité digitale
-\`\`\`
+### Statut Professionnel
 
-### 🎭 Citation Inspirante
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&center=true&vCenter=true&width=700&height=50&duration=4000&lines=💡+%22Le+code+est+de+la+poésie+en+mouvement%22;🚀+%22Créer+l'impossible,+une+ligne+à+la+fois%22;⚡+%22L'innovation+naît+de+la+passion%22;🌟+%22Le+futur+se+code+aujourd'hui%22&color=00ff88&background=1a1a2e" />
+| | |
+|---|---|
+| **Objectif** | Innovation Technologique |
+| **Mission** | Applications Java/Angular robustes |
+| **Focus** | Clean Code & Architecture |
+| **Vision** | Solutions enterprise scalables |
 
 </div>
 
@@ -308,24 +318,26 @@
 <tr>
 <td align="center" width="50%">
 
-### 🎯 Mes Préférences
-\`\`\`yaml
-☕ Boisson: Café (beaucoup de café!)
-🎵 Musique: Lo-fi pendant le code
-🌙 Horaire: Night owl developer
-🎮 Hobby: Créer des animations 3D
-\`\`\`
+### Mes Préférences
+
+| | |
+|---|---|
+| Boisson | Cafe (beaucoup!) |
+| Musique | Lo-fi pendant le code |
+| Horaire | Night owl developer |
+| IDE | IntelliJ IDEA |
 
 </td>
 <td align="center" width="50%">
 
-### 📊 Quick Stats
-\`\`\`yaml
-🏆 Projets complétés: 20+
-⭐ Années d'expérience: 5+
-🔥 Langages maîtrisés: 15+
-🚀 Projets en cours: 3
-\`\`\`
+### Quick Stats
+
+| | |
+|---|---|
+| Projets completes | 20+ |
+| Annees d'experience | 5+ |
+| Technologies | 15+ |
+| Projets en cours | 3 |
 
 </td>
 </tr>
@@ -344,13 +356,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&center=true&vCenter=true&width=600&height=50&duration=3000&pause=1000&color=e91e63&background=1a1a2e&lines=🙏+Merci+d'avoir+exploré+mon+profil+!;✨+N'hésitez+pas+à+explorer+mes+projets+!;🚀+Collaborons+pour+créer+l'extraordinaire+!" />
 
-**🚀 Développeuse Full-Stack • 💡 Innovatrice • 🌟 Créatrice d'Expériences Digitales**
+**Développeuse Full-Stack Java/Angular | Spring Boot | TypeScript**
 
-*⚡ Toujours prête pour de nouveaux défis technologiques ! 🌟*
+*Toujours prête pour de nouveaux défis technologiques*
 
 </div>
 
- Footer avec animation 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,25,30&height=150&section=footer&animation=fadeIn&fontColor=fff"/>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a1942,100:1a1a2e&height=120&section=footer"/>
 
 </div>
